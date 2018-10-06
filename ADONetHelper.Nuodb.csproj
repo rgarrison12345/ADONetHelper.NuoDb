@@ -3,9 +3,9 @@
     <TargetFrameworks>net40;net35;</TargetFrameworks>
     <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageLicenseUrl>https://github.com/rgarrison12345/Libraries/blob/master/LICENSE.md</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/rgarrison12345/Libraries/tree/master/ADONetHelper/ADONetHelper.NuoDb</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/rgarrison12345/Libraries/tree/master/ADONetHelper/ADONetHelper</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/rgarrison12345/ADONetHelper.NuoDb/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/rgarrison12345/ADONetHelper.NuoDb</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rgarrison12345/ADONetHelper.NuoDb.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <Version>1.0.6</Version>
