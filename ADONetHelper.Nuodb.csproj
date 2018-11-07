@@ -16,6 +16,8 @@
     <Product>ADONetHelper.NuoDb</Product>
     <Title>ADONetHelper.NuoDb</Title>
     <PackageId>ADONetHelper.NuoDb</PackageId>
+    <IncludeSource>true</IncludeSource>
+    <IncludeSymbols>true</IncludeSymbols>
     <Description>Extends ADONetHelper library to NuoDb</Description>
     <PackageReleaseNotes>Updating to ADONetHelper 3.1.2</PackageReleaseNotes>
     <AssemblyName>ADONetHelper.NuoDb</AssemblyName>
