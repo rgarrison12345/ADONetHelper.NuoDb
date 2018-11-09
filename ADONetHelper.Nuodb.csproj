@@ -8,7 +8,7 @@
     <RepositoryUrl>https://github.com/rgarrison12345/ADONetHelper.NuoDb.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <Version>1.0.7</Version>
+    <Version>1.0.8</Version>
     <PackageTags>NuoDb NuoDb.Data.Client ORM ADO.NET ADO SQL .NET Database RDBMS Generic DAL ANSI</PackageTags>
     <Copyright>Copyright © Robert Garrison 2018</Copyright>
     <Authors>Robert Garrison</Authors>
@@ -19,7 +19,7 @@
     <IncludeSource>true</IncludeSource>
     <IncludeSymbols>true</IncludeSymbols>
     <Description>Extends ADONetHelper library to NuoDb</Description>
-    <PackageReleaseNotes>Updating to ADONetHelper 3.1.2</PackageReleaseNotes>
+    <PackageReleaseNotes>Updating to ADONetHelper NuoDb.Data.Client 2.3.0.10</PackageReleaseNotes>
     <AssemblyName>ADONetHelper.NuoDb</AssemblyName>
     <RootNamespace>ADONetHelper.NuoDb</RootNamespace>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\ADONetHelper.NuoDb.xml</DocumentationFile>
@@ -29,7 +29,7 @@
     <OutputType>Library</OutputType>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="NuoDb.Data.Client" Version="2.3.0.9" />
+    <PackageReference Include="NuoDb.Data.Client" Version="2.3.0.10" />
     <PackageReference Include="ADONetHelper" version="3.1.2" />
   </ItemGroup>
   <PropertyGroup Condition="'$(Configuration)'=='Debug'">
